@@ -100,7 +100,7 @@ if "pdf_text" not in st.session_state:
 # --- Interfaz Principal ---
 st.markdown("""
 <div class="header-gradient">
-    <h1 style="margin:0;">Tutor Virtual - Formación APDA</h1>
+    <h1 style="margin:0;">Tutor Virtual - Formación CAEB</h1>
     <p style="margin:0;"> </p>
 </div>
 """, unsafe_allow_html=True)
@@ -183,7 +183,7 @@ with col2:
 with st.sidebar:
     st.title("ℹ️ Instrucciones")
     st.markdown("""
-    1. Pregunta lo relacionado con la convocatoria Acoso escolar: Prevención, Detección y Actuación
+    1. Pregunta lo relacionado con la convocatoria Convierte a tus alumnos en Booktubers
     2. Sino encuentras/visualizas tu curso, revisa el correo con el que te inscribiste ingresando tu CURP en el panel derecho
     3. Cierre este panel, si deseas ver con mayor claridad la información
     """)
